@@ -71,8 +71,6 @@ E
 _layouts/article.html,0/a/0aec7572dc4ef0936e2a31b0a628dab736aa0502
 <
 README-zh.md,5/1/51c6e27f73fd83043324183223f372b31a1ae27e
-C
-_data/variables.yml,9/c/9c10aac0403a20351e8c9834c0647b53498cb34c
 M
 _includes/scripts/archieve.js,a/8/a8091b0d9a8a52e63006ed0f62489d790510ea5a
 K
@@ -85,8 +83,6 @@ L
 CHANGELOG.md,a/b/ab09011fa121d0a2bb9fa4ca76094f2482b902b7
 >
 about.markdown,2/4/24670697a538620f8dfbf6dfd25a89d3674d63b1
-<
-archive.html,a/a/aa6834891a2ee2aebb46d1e73ed0f264949ea880
 8
 404.html,1/2/12bf52c5b60772bbf201ffb05d6bb178c1bf9a28
 8
