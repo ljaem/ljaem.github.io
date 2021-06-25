@@ -77,8 +77,6 @@ K
 _includes/article-list.html,c/9/c9cedc8b6cbac47f1f13d4f2e8ec0857b747053a
 E
 _layouts/archive.html,7/b/7b0f942d0bd00b54bcbb6945702f72853187019b
-L
-_posts/2018-07-01-welcome.md,b/5/b5bc5a8f13c637dd9188b734b8a5a9cdb0639999
 <
 CHANGELOG.md,a/b/ab09011fa121d0a2bb9fa4ca76094f2482b902b7
 >

@@ -1,6 +1,6 @@
 ---
 title: 블로그 설정
-tags: Java
+tags: TeXt
 ---
 
 ### 블로그 추가적인 설정 필요한 부분
