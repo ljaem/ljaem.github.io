@@ -1,8 +1,6 @@
 
 G
 _includes/comments.html,0/a/0a18234c4ca442d64321174b88c51c064c6441b3
-H
-_sass/common/_reset.scss,e/7/e7c175b882f62b09205995b84efde66dd35f4f62
 K
 assets/images/logo/logo.svg,9/b/9b443f102bf4f855516a59c920534fb8fa7a88d2
 L
@@ -31,8 +29,6 @@ B
 _data/licenses.yml,6/f/6f915df61fa5a76012d10489ee082319ff591bd7
 M
 _sass/components/_footer.scss,b/e/befcd4f54c388e5a02767931d6ffaa74b47cc2de
-J
-_includes/head/custom.html,e/e/eed7d824664f7d7a5708f7174dd11fe423f190e9
 H
 _includes/aside/toc.html,c/5/c554bb0f55cbddfd73cbf06e3688a774e7eeec25
 T
@@ -68,8 +64,6 @@ M
 U
 %_includes/article/footer/license.html,c/c/ccf4cdb3f646ffb3cba8494040f989e9baafe0a8
 E
-_includes/footer.html,7/b/7bafeea8911e2ce671479ece265a20c5eb026da8
-E
 _layouts/landing.html,3/f/3f13d46c9d4b87e444212039a86787381a7403eb
 B
 _layouts/none.html,b/b/bbcc46623737880183d33f0ba2de41a13ca8ec02
@@ -84,10 +78,6 @@ A
 :
 
 index.html,f/6/f6013a00b362253c64368d6eebc50ea2131754e2
-7
-home.md,9/7/970b8d2f83ccbb921612aaa17f8056247a091a6a
-D
-_data/navigation.yml,2/b/2be422aeee711340aaa5e49cef05cf00d2df950a
 <
 CHANGELOG.md,a/b/ab09011fa121d0a2bb9fa4ca76094f2482b902b7
 G
@@ -114,7 +104,6 @@ A
 _layouts/404.html,5/6/5633fb093e6857af732662e6877ce7113c3a4701
 B
 _layouts/page.html,8/b/8b421129e621bb2aca5057f6bdb5e5905633134c
-R
-"_sass/common/components/_item.scss,5/8/58bd8c5b0f1841cfade5249f053f008410379491
-L
-_sass/common/_variables.scss,8/a/8a465014b92ce6e669a848da2272c2cc29cad09b
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
