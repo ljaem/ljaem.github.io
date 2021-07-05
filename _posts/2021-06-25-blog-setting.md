@@ -1,6 +1,7 @@
 ---
 title: 블로그 설정
 tags: jekyll
+aside: false
 ---
 
 #### 블로그 추가적인 설정 필요한 부분
