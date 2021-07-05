@@ -40,6 +40,7 @@
       {%- if _show_tags -%}
 
         <ul class="left-col menu">
+          <span><img src="/assets/tag_icon.png" width="18" align="center"/></span>
           {%- assign _tag_path = _paths_archive | append: '?tag=' -%}
           {%- include snippets/prepend-baseurl.html path=_tag_path -%}
 

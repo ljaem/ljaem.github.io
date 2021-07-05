@@ -81,7 +81,7 @@ $z-indexes: (
 $layout: (
   header-height:          5rem,
   header-height-sm:       3rem,
-  content-max-width:      950px,
+  content-max-width:      1200px,
   sidebar-width:          250px,
   sidebar-header-height:  3rem,
   aside-width:            250px
@@ -125,7 +125,7 @@ $button: (
   padding-y-xs:           ($button-height-xs - map-get($base, font-size-xs)) / 2,
   padding-x-xs:           $button-height-xs / 3,
 
-  pill-radius:            6rem,
+  pill-radius:            0.3rem,
 
   circle-diameter-xl:     $button-height-xl,
   circle-diameter-lg:     $button-height-lg,
